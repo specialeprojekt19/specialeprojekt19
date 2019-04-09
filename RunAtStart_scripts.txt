@@ -1,0 +1,6 @@
+#!/bin/sh -e
+
+sleep 60 && /root/startnet.sh &
+sleep 120 && /root/startmpl.sh &
+
+exit 0
