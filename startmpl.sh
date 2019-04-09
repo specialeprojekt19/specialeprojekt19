@@ -1,3 +1,7 @@
+#In terminal:
+#sudo -i
+#nano startmpl.sh
+
 #!/bin/bash
 
 cd /
