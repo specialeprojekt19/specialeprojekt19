@@ -1,3 +1,7 @@
+#In terminal:
+#sudo -i
+#nano /etc/rc.local
+
 #!/bin/sh -e
 
 sleep 60 && /root/startnet.sh &
