@@ -1,13 +1,14 @@
 # specialeprojekt19
 This repository contains the source code used in a Master thesis
 
-The sources used to guide the development are the following:
-
 Components:
 - Raspberry Pi 3 Model B+
 - Ublox Neo-7m GPS module
 - Adafruit MPL3115A2 sensor
 - USB-modem
+
+
+The sources used to guide the development are the following:
 
 Ublox Neo-7m
 https://medium.com/@DefCon_007/using-a-gps-module-neo-7m-with-raspberry-pi-3-45100bc0bb41
